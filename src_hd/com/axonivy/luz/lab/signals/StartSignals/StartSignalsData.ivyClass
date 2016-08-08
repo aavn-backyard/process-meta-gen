@@ -1,0 +1,8 @@
+StartSignalsData #class
+com.axonivy.luz.lab.signals.StartSignals #namespace
+signalStarts java.util.List<com.axonivy.labs.SignalStart> #field
+signalStarts PERSISTENT #fieldModifier
+filteredSignalStarts java.util.List<com.axonivy.labs.SignalStart> #field
+filteredSignalStarts PERSISTENT #fieldModifier
+selectedSignalStart com.axonivy.labs.SignalStart #field
+selectedSignalStart PERSISTENT #fieldModifier

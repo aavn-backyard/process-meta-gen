@@ -1,0 +1,8 @@
+BusinessRequestStartsData #class
+com.axonivy.luz.lab.processmetadata.BusinessRequestStarts #namespace
+requestStarts java.util.List<com.axonivy.labs.RequestStart> #field
+requestStarts PERSISTENT #fieldModifier
+filteredRequestStarts java.util.List<com.axonivy.labs.RequestStart> #field
+filteredRequestStarts PERSISTENT #fieldModifier
+selectedRequestStart com.axonivy.labs.RequestStart #field
+selectedRequestStart PERSISTENT #fieldModifier
